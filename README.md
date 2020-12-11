@@ -1,6 +1,6 @@
 <p align="center">  <img src="https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif" width="200" height="200">
-<p align="center"> <b> Hi there, Levi is here </b><br>
-Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="40" height="40" >
+<p align="center"> <b> Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="40" height="40" >, Levi is here </b><br>
+
 Hi, I'm Turan Kılıç, a cyber security fancier
 
 <!--
