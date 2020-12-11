@@ -8,7 +8,7 @@ And also I have some Jupyter Notebook skills which I used in data science. <br>
 <h3> You can find more info about me is under here :arrow_down: </h3>
 :computer: I’m currently working on cyber security and linux  (PURE NEW IN CYBER) <br>
 :grey_question::grey_exclamation: I’m looking for a mentor on cyber subject<br>
-📫 Contact me: <a href="#"> turan.kilic.bm@gmail.com </a><br>
+📫 Contact me: <a href="https://mail.google.com/mail/u/0/#inbox"> turan.kilic.bm@gmail.com </a><br>
 
 
 <!--
