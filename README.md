@@ -2,7 +2,7 @@
 <p align="center"> <b> Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="40" height="40" >, Levi is here </b><br>
 A cyber security fancier
   
-🔭 I’m currently working on cyber security
+🔭 I’m currently working on cyber security <br>
 🤔 I’m looking for help with finding a mentor on cyber subject
 
 
