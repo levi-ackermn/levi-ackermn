@@ -1,7 +1,8 @@
+![Alt Text]
 (https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif)
 # <p align="center"> Hi there, Turan is here <br>
   <p align="center"> 
-### Hi there 👋 :baby:
+### Hi there 👋
 ####
 
 <!--
