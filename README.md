@@ -4,7 +4,7 @@
 I'm a 3rd grade computer engineering student from Turkey. I'm interested in cyber security, data science, linux operating systems and open source. <br>
 I can code in Python, C# and Java, also have some html skills. <br>
 And also I have some Jupyter Notebook skills which I used in data science. <br>
-<h3> You can find more info about me is under here :arrow_down: 
+<h3> You can find more info about me is under here :arrow_down: </h3>
 🔭 I’m currently working on cyber security, linux <br>
 🤔 I’m looking for help with finding a mentor on cyber subject <br>
 🌱 I’m currently learning ... <br>
