@@ -8,7 +8,7 @@ And also I have some Jupyter Notebook skills which I used in data science. <br>
 🔭 I’m currently working on cyber security, linux <br>
 🤔 I’m looking for help with finding a mentor on cyber subject <br>
 🌱 I’m currently learning ... <br>
-📫 How to reach me: turan.kilic.bm@gmail.com <br>
+📫 Contact me: turan.kilic.bm@gmail.com <br>
 
 
 <!--
