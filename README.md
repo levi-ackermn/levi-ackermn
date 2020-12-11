@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif" width="40" height="40" align="center">
+<p align="center">  <img src="https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif" width="400" height="400">
 # <p align="center"> Hi there, Turan is here <br>
   <p align="center"> 
 ### Hi there 👋 :baby:
