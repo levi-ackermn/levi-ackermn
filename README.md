@@ -4,12 +4,10 @@
 I'm a 3rd grade computer engineering student from Turkey. <br>
 I'm interested in cyber security, data science, linux operating systems and open source. <br>
 I can code in Java, C# and Pyhton, learning Ruby thesedays <br>
-
 And also I have some Jupyter Notebook skills which I used in data science. <br>
 <h3> You can find more info about me is under here :arrow_down: </h3>
 :computer: I’m currently working on cyber security - pure new, linux :computer: <br>
 :grey_question::grey_exclamation: I’m looking for help with finding a mentor on cyber subject :grey_question::grey_exclamation: <br>
-🌱 I’m currently learning ... <br>
 📫 Contact me: <a href="#"> turan.kilic.bm@gmail.com </a><br>
 
 
