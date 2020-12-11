@@ -3,7 +3,7 @@
 
 I'm a 3rd grade computer engineering student from Turkey. <br>
 I'm interested in cyber security, data science, linux operating systems and open source. <br>
-<h4> I can code in </h4><br>
+I can code in Java, C# and Pyhton, learning Ruby thesedays <br>
 
 And also I have some Jupyter Notebook skills which I used in data science. <br>
 <h3> You can find more info about me is under here :arrow_down: </h3>
