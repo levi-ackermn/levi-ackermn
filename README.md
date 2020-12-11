@@ -1,8 +1,7 @@
 <p align="center">  <img src="https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif" width="200" height="200">
 <p align="center"> <b> Hi there, Levi is here </b><br>
-<p align="center"> Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="40" height="40" >
-
-## Hi, I'm Turan Kılıç, a cyber security fancier
+Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="40" height="40" >
+Hi, I'm Turan Kılıç, a cyber security fancier
 
 <!--
 **levi-ackermn/levi-ackermn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
