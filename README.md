@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif" width="400" height="400">
+<p align="center">  <img src="https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif" width="200" height="200">
 <p align="center"> Hi there, Levi is here <br>
 <p align="center"> Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="40" height="40" >
 
