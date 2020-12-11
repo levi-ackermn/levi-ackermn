@@ -9,17 +9,3 @@ And also I have some Jupyter Notebook skills which I use for data science. <br>
 :computer: I’m currently working on cyber security and linux  (PURE NEW IN CYBER) <br>
 :grey_question::grey_exclamation: I’m looking for a mentor on cyber subject<br>
 📫 Contact me: <a href="https://mail.google.com/mail/u/0/#inbox"> turan.kilic.bm@gmail.com </a><br>
-
-
-<!--
-**levi-ackermn/levi-ackermn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--
-- 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
